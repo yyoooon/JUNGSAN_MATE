@@ -1,4 +1,4 @@
-# 룸메랑 정산
+# 정산메이트
 
 [ref.](https://www.notion.so/ref-fef797c60cdf41159c6a3cea9aa84dab)
 
